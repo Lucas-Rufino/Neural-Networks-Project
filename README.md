@@ -7,3 +7,4 @@ Team:
 - Lucas Alves Rufno  
 - Rodrigo de Lima Oliveira  
 - Ullayne Fernandes Farias de Lima  
+- Vitor Jose da Silva Lima  
